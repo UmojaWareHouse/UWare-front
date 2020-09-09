@@ -1,2 +1,2 @@
-# UmojaWareHouseFront
-Java frontend of the system
+# UWare-Front
+frontend of the system
